@@ -23,8 +23,8 @@ In the cmux shell, run `env -u NODE_OPTIONS node build.mjs`.
   sync, class codes or teachers, the privacy page must change first.
 - The Support page names Settings rows ("Erase my progress", "For grown-ups", "Fix the
   birthday"). If those labels change in the app, change them here.
-- The app's in-app Privacy and Terms screens (apps/mobile/src/app/doc.tsx) should show the
-  same text.
+- The app shows the same Privacy and Terms text from content/legal.json in the app repo.
+  Change both together, with the same "updated" date.
 
 ## Before turning off `draft`
 
