@@ -34,5 +34,5 @@ In the cmux shell, run `env -u NODE_OPTIONS node build.mjs`.
 
 ## App Store Connect
 
-- Privacy Policy URL: `https://www.marvinma.com/pip-learning-site/privacy.html`
-- Support URL: `https://www.marvinma.com/pip-learning-site/support.html`
+- Privacy Policy URL: `https://pip.marvinma.com/privacy.html`
+- Support URL: `https://pip.marvinma.com/support.html`
