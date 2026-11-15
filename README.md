@@ -34,5 +34,5 @@ In the cmux shell, run `env -u NODE_OPTIONS node build.mjs`.
 
 ## App Store Connect
 
-- Privacy Policy URL: `https://<user>.github.io/pip-learning-site/privacy.html`
-- Support URL: `https://<user>.github.io/pip-learning-site/support.html`
+- Privacy Policy URL: `https://yma010.github.io/pip-learning-site/privacy.html`
+- Support URL: `https://yma010.github.io/pip-learning-site/support.html`
